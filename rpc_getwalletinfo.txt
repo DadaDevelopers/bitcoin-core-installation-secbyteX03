@@ -1,0 +1,23 @@
+{
+  "walletname": "firstwallet",
+  "walletversion": 169900,
+  "format": "sqlite",
+  "txcount": 0,
+  "keypoolsize": 4000,
+  "keypoolsize_hd_internal": 4000,
+  "private_keys_enabled": true,
+  "avoid_reuse": false,
+  "scanning": false,
+  "descriptors": true,
+  "external_signer": false,
+  "blank": false,
+  "birthtime": 1772836162,
+  "flags": [
+    "last_hardened_xpub_cached",
+    "descriptor_wallet"
+  ],
+  "lastprocessedblock": {
+    "hash": "00000000000003d61b464650d2841cc8fc65d0ab33e6a43cabbbbb7637482716",
+    "height": 173224
+  }
+}
