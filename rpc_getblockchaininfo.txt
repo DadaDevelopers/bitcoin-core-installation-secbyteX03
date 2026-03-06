@@ -1,0 +1,19 @@
+{
+  "chain": "main",
+  "blocks": 165593,
+  "headers": 939635,
+  "bestblockhash": "00000000000002ef86e4b6a186f7c7205048d14ce9ee05b97337e5240267608e",
+  "bits": "1a0c290b",
+  "target": "0000000000000c290b0000000000000000000000000000000000000000000000",
+  "difficulty": 1379647.439214294,
+  "time": 1328516535,
+  "mediantime": 1328514152,
+  "verificationprogress": 0.001780864086745205,
+  "initialblockdownload": true,
+  "chainwork": "00000000000000000000000000000000000000000000000c7216acdbf905ef30",
+  "size_on_disk": 1107750716,
+  "pruned": false,
+  "warnings": [
+    "This is a pre-release test build - use at your own risk - do not use for mining or merchant applications"
+  ]
+}
