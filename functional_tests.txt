@@ -1,0 +1,26 @@
+WARNING! Test 'mempool_basic' not found in full test list.
+WARNING! Test 'p2p_basic' not found in full test list.
+Remaining jobs: [wallet_send.py]
+
+TEST                            | STATUS    | DURATION
+
+mining_basic.py                 | ✓ Passed  | 54 s
+wallet_basic.py                 | ✓ Passed  | 29 s
+wallet_createwallet.py          | ✓ Passed  | 3 s
+wallet_createwallet.py --usecli | ✓ Passed  | 6 s
+wallet_send.py                  | ✓ Passed  | 18 s
+
+ALL                             | ✓ Passed  | 110 s (accumulated) 
+Runtime: 112 s
+
+Remaining jobs: [wallet_backup.py]
+
+TEST             | STATUS    | DURATION
+
+p2p_segwit.py    | ✓ Passed  | 127 s
+wallet_backup.py | ✓ Passed  | 25 s
+wallet_hd.py     | ✓ Passed  | 9 s
+
+ALL              | ✓ Passed  | 161 s (accumulated) 
+Runtime: 162 s
+
