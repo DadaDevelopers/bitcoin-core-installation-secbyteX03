@@ -1,6 +1,4 @@
-WARNING! Test 'mempool_basic' not found in full test list.
-WARNING! Test 'p2p_basic' not found in full test list.
-Remaining jobs: [wallet_send.py]
+
 
 TEST                            | STATUS    | DURATION
 
@@ -13,7 +11,6 @@ wallet_send.py                  | ✓ Passed  | 18 s
 ALL                             | ✓ Passed  | 110 s (accumulated) 
 Runtime: 112 s
 
-Remaining jobs: [wallet_backup.py]
 
 TEST             | STATUS    | DURATION
 
@@ -24,11 +21,7 @@ wallet_hd.py     | ✓ Passed  | 9 s
 ALL              | ✓ Passed  | 161 s (accumulated) 
 Runtime: 162 s
 
-WARNING! Test 'config.ini' not found in full test list.
-Remaining jobs: [mempool_accept.py, p2p_handshake.py, p2p_handshake.py --v2transport, feature_block.py]
-Remaining jobs: [mempool_accept.py, p2p_handshake.py --v2transport, feature_block.py]
-Remaining jobs: [mempool_accept.py, feature_block.py]
-Remaining jobs: [feature_block.py]
+
 
 TEST                           | STATUS    | DURATION
 
