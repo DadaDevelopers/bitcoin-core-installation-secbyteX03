@@ -24,3 +24,20 @@ wallet_hd.py     | ✓ Passed  | 9 s
 ALL              | ✓ Passed  | 161 s (accumulated) 
 Runtime: 162 s
 
+WARNING! Test 'config.ini' not found in full test list.
+Remaining jobs: [mempool_accept.py, p2p_handshake.py, p2p_handshake.py --v2transport, feature_block.py]
+Remaining jobs: [mempool_accept.py, p2p_handshake.py --v2transport, feature_block.py]
+Remaining jobs: [mempool_accept.py, feature_block.py]
+Remaining jobs: [feature_block.py]
+
+TEST                           | STATUS    | DURATION
+
+feature_block.py               | ✓ Passed  | 385 s
+mempool_accept.py              | ✓ Passed  | 67 s
+p2p_handshake.py               | ✓ Passed  | 16 s
+p2p_handshake.py --v2transport | ✓ Passed  | 24 s
+rpc_help.py                    | ✓ Passed  | 14 s
+
+ALL                            | ✓ Passed  | 506 s (accumulated) 
+Runtime: 401 s
+
