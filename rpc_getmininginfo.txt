@@ -1,0 +1,19 @@
+{
+  "blocks": 166460,
+  "bits": "1a0c290b",
+  "difficulty": 1379647.439214294,
+  "target": "0000000000000c290b0000000000000000000000000000000000000000000000",
+  "networkhashps": 10456688419851.97,
+  "pooledtx": 0,
+  "blockmintxfee": 0.00000001,
+  "chain": "main",
+  "next": {
+    "height": 166461,
+    "bits": "1a0c290b",
+    "difficulty": 1379647.439214294,
+    "target": "0000000000000c290b0000000000000000000000000000000000000000000000"
+  },
+  "warnings": [
+    "This is a pre-release test build - use at your own risk - do not use for mining or merchant applications"
+  ]
+}

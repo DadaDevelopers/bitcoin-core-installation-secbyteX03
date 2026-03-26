@@ -1,0 +1,36 @@
+
+
+TEST                            | STATUS    | DURATION
+
+mining_basic.py                 | ✓ Passed  | 54 s
+wallet_basic.py                 | ✓ Passed  | 29 s
+wallet_createwallet.py          | ✓ Passed  | 3 s
+wallet_createwallet.py --usecli | ✓ Passed  | 6 s
+wallet_send.py                  | ✓ Passed  | 18 s
+
+ALL                             | ✓ Passed  | 110 s (accumulated) 
+Runtime: 112 s
+
+
+TEST             | STATUS    | DURATION
+
+p2p_segwit.py    | ✓ Passed  | 127 s
+wallet_backup.py | ✓ Passed  | 25 s
+wallet_hd.py     | ✓ Passed  | 9 s
+
+ALL              | ✓ Passed  | 161 s (accumulated) 
+Runtime: 162 s
+
+
+
+TEST                           | STATUS    | DURATION
+
+feature_block.py               | ✓ Passed  | 385 s
+mempool_accept.py              | ✓ Passed  | 67 s
+p2p_handshake.py               | ✓ Passed  | 16 s
+p2p_handshake.py --v2transport | ✓ Passed  | 24 s
+rpc_help.py                    | ✓ Passed  | 14 s
+
+ALL                            | ✓ Passed  | 506 s (accumulated) 
+Runtime: 401 s
+
